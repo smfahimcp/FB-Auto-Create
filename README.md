@@ -8,14 +8,9 @@ Use strictly for **educational/testing purposes** only. Any illegal or abusive u
 ## 📦 Installation
 
 ```bash
-# Clone the repository
 git clone https://github.com/smfahimcp/FB-Auto-Create.git
 cd FB-Auto-Create
-
-# Install Node.js dependencies
 npm install
-
-# Install Python dependencies
 pip install -r requirements.txt
 ```
 
