@@ -67,3 +67,14 @@ FB-Auto-Create/
 - This project is for **educational/testing purposes only**.
 - Violating Facebook's terms of service may result in your account being suspended or banned.
 - Use at your own risk.
+
+```
+
+## 📄 License
+
+This project is released under the MIT License. See [LICENSE](LICENSE) for details.
+
+---
+## Author
+
+Made with ❤️ by [@smfahimcp](https://github.com/smfahimcp)
