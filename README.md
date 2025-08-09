@@ -68,8 +68,6 @@ FB-Auto-Create/
 - Violating Facebook's terms of service may result in your account being suspended or banned.
 - Use at your own risk.
 
-```
-
 ## 📄 License
 
 This project is released under the MIT License. See [LICENSE](LICENSE) for details.
