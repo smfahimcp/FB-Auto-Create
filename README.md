@@ -34,17 +34,17 @@ python main.py
 
 Build the image:
 ```bash
-docker build -t fb-auto-create .
+docker build -t FB-Auto-Create .
 ```
 
 Run Node.js script:
 ```bash
-docker run --rm fb-auto-create node index.js
+docker run --rm FB-Auto-Create node index.js
 ```
 
 Run Python script:
 ```bash
-docker run --rm fb-auto-create python main.py
+docker run --rm FB-Auto-Create python main.py
 ```
 
 ---
